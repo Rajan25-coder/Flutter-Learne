@@ -11,7 +11,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
      return MaterialApp(
       home: Container(
-     child: Text("rajan",
+     child: Text("rajan", 
+     
       textDirection: TextDirection.ltr,),
      ));
   }
